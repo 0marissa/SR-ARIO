@@ -6,7 +6,10 @@ MATLAB codebase for quantifying post-disaster economic recovery for a single reg
 License: 
 
 ## Updates
-    08/21/2022: This program requires a set of pre-formatted inputs to run. An example will be posted here for reference in the near future. The analysis cannot be run without these files.
+    08/21/2022: 
+    - This program requires a set of pre-formatted inputs to run. 
+    - An example will be posted here for reference in the near future. 
+    - The analysis cannot be run without these files.
 ## Program overview
 This repository contains the following:
 * **sr_wrapper.m**: wrapper script governing analysis settings
