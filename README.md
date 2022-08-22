@@ -3,7 +3,7 @@
 **Original program by Stephan Hallegate, 2014** <br>
 MATLAB codebase for quantifying post-disaster economic recovery for a single region. Based on the original ARIO model by Hallegate, 2014. 
 
-License: 
+*License: GNU General Public License v3.0 (see LICENSE)*
 
 ## Updates
     08/21/2022: 
@@ -51,6 +51,6 @@ The function fn_run_sr_ario is the main function governing the ARIO analysis, an
 ## Running an analysis
 The steps to run a single-region ARIO analysis are summarized below. 
 1. Place (i) `sr_ario_building_damage.csv`, (ii) `sr_ario_econ_data.mat`, (iii) `sr_ario_economic_sectors.csv`,  (iv) `sr_ario_IO_data.mat`, and (v) `sr_ario_loss_data.mat` in the `inputs` directory. 
-2. Run the sr_wrapper.m script, which calls on the run_sr_ario.m file to run the ARIO analysis with user-defined settings.
+2. Run the `sr_ario_wrapper.m` script, which calls on the `run_sr_ario.m` function to initiate the ARIO analysis with user-defined settings.
 3. Analysis will be saved in the `outputs` directory.
 4. Postprocess output using the `sr_postprocess.m` function. Example postprocessing functions are included in the `functions` folder.
