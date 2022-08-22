@@ -1,9 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %   Japan-ARIO project: Single-region wrapper script
-%   Applied to the 2016 Kumamoto Earthquake
 %   Stanford Urban Resilience Initiative
-%
 %   Summer 2022
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
