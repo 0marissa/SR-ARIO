@@ -1,7 +1,7 @@
 # Single-region ARIO analysis 
 **Stanford Urban Resilience Initiative, 2022** <br>
-**Original program by Stephan Hallegate, 2014** <br>
-MATLAB codebase for quantifying post-disaster economic recovery for a single region. Based on the original ARIO model by Hallegate, 2014. 
+**Original program by Stephane Hallegatte, 2014** <br>
+MATLAB codebase for quantifying post-disaster economic recovery for a single region. Based on the original ARIO model by Hallegatte, 2014. 
 
 *License: GNU General Public License v3.0 (see LICENSE)*
 
